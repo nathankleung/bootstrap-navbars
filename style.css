@@ -3,10 +3,13 @@
     color: white;
 }
 
+#aloha-beer .nav-link{
+    color: black;
+}
+
 .bi-instagram, .bi-cart {
     color: white;
 }
-
 
 .nav-item {
     padding-left: 1rem; 
