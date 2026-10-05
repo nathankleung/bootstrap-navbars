@@ -6,6 +6,9 @@
 #aloha-beer .nav-link{
     color: black;
 }
+#dukes .nav-link{
+    color: white;
+}
 
 .bi-instagram, .bi-cart {
     color: white;
